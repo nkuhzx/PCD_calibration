@@ -4,4 +4,5 @@ main
 CMakeCache.txt
 cmake_install.cmake
 pcdFiles/*.pcd
+!pcdFiles/D1S1A001.pcd
 calibFiles/Rotation_matrix/*.txt
