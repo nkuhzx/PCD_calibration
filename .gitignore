@@ -3,5 +3,5 @@ Makefile
 main
 CMakeCache.txt
 cmake_install.cmake
-pcdFiles/
+pcdFiles/*.pcd
 calibFiles/Rotation_matrix/*.txt
