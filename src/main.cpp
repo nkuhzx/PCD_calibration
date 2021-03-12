@@ -60,7 +60,7 @@ Eigen::Matrix4d HorizontalCalibration(string pcd_file_path)
         PCL_ERROR ("Couldn't read the pcd file");
     }
 
-    cout<<cloud->size()<<endl;
+    // cout<<cloud->size()<<endl;
 
 
     //for choice the point cloud
